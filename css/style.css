@@ -1,0 +1,53 @@
+header {
+    background-color: #F8E8EE;
+}
+main {
+    background-color: #F2BED1;
+}
+.ctnr-buques {
+    transition: none;
+    display: flex;
+    max-width: 1000px;
+    padding: 20px;
+
+}
+.ctnr-arranjos {
+    display: flex;
+    max-width: 1000PX;
+    padding: 20px;
+}
+.ctnr-cestas {
+    display: flex;
+    max-width: 1000PX;
+    padding: 20px;
+}
+.ctnr-orquideas {
+    display: flex;
+    max-width: 1000PX;
+    padding: 20px;
+}
+.ctnr-ursos {
+    display: flex;
+    max-width: 1000PX;
+    padding: 20px;
+}
+#buques {
+    position: relative;
+    left: 250px;
+}
+#arranjos {
+    position: relative;
+    left: 250px;
+}
+#orquideas {
+    position: relative;
+    left: 250px;
+}
+#cestas {
+    position: relative;
+    left: 250px;
+}
+#ursos {
+    position: relative;
+    left: 250px;
+}
